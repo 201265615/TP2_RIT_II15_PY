@@ -1,0 +1,36 @@
+body{
+	font-family: Helvetica;
+}
+
+table, td, tr, th{
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10px;
+}
+
+th{
+	background: #45527F;
+	color: #fff;
+}
+
+tr:nth-child(odd) {
+	background: #677BBF;
+	color: #fff;
+}
+
+.report-header{
+	text-align: center;
+}
+
+.ranking{
+	margin: auto;
+	border: 1px solid black;
+}
+
+.ranking-headers{
+	font-size: 30px;
+}
+
+.footer{
+	text-align: center;
+}

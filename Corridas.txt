@@ -1,0 +1,4 @@
+Corridas
+
+indexar ../Archivos_adicionales/Geografia ../Archivos_adicionales/stopwords.txt ../Archivos_adicionales/indices/
+
